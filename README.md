@@ -110,7 +110,7 @@ Project for the **Machine Learning** course, academic year 2021/22, Master’s D
 Development of a KNIME workflow for a machine learning project based on a chosen dataset.
 
 
-## Medical Imaging
+## [Medical Imaging](https://github.com/andrelp99/projects_portfolio/tree/main/Medical%20Imaging)
 
 Project for the **Medical Imaging** course, academic year 2022/23, in the Master’s Degree in Data Science program at the University of Milano-Bicocca.
 
