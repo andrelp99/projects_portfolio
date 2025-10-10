@@ -1,4 +1,4 @@
-# Machine_Learning
+## Machine Learning
 
 Project for the **Machine Learning** course, academic year 2021/22, Master’s Degree in Data Science, University of Milano – Bicocca.
 
