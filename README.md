@@ -49,7 +49,7 @@ Project for the Data Mining course, academic year 2020/21, Bachelor’s Degree i
 
 The goal of this study was to build a classifier capable of predicting user ratings based on the characteristics of a mobile application.
 
-##Foundations of Computer Science
+## Foundations of Computer Science
 
 Project for the Foundations of Computer Science course, academic year 2021/22.
 
