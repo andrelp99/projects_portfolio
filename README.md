@@ -101,18 +101,6 @@ There are no restrictions on the Python version or libraries used.
 To read the files, use encoding='latin-1'.
 All questions must be asked publicly on Zulip; otherwise, no answers will be provided.
 
-Tasks:
-Normalize the “location” field in the Users dataset, splitting it into city, region, and country.
-Compute the average rating for each book in both Books and GoodBooks datasets.
-Merge rows with the same title, author, and publisher into a dataset called merged_books.
-Compute average, min, and max ratings for merged books.
-Compute text review counts shared among authors.
-Identify authors with the highest shared review counts per publication year.
-Compare average ratings across datasets by ISBN.
-Split users by age group (unknown, 0–14, 15–24, etc.).
-Identify books that appear only in GoodBooks.
-Find books and authors appearing most frequently and with the highest average rating.
-
 
 ## R Laboratory for Biostatistics
 
@@ -129,6 +117,7 @@ Development of a KNIME workflow for a machine learning project based on a chosen
 
 
 ## Statistical Models
+
 Project completed using RMarkdown during the **Statistical Models** exam, academic year 2019/20, Bachelor’s Degree in Statistics and Information Management (SGI), University of Milano – Bicocca.
 
 Assignment summary:
