@@ -1,4 +1,4 @@
-## Data_Science_Lab
+## Data Science Lab
 
 Project for the **Data Science Lab** course, academic year 2022/23, Master’s Degree in Data Science, University of Milano – Bicocca.
 
