@@ -53,6 +53,13 @@ The project involved integrating, cleaning, and standardizing the data, loading 
 The resulting dataset combined information from different sources about eight football leagues (Serie A, Premier League, Ligue 1, Bundesliga, La Liga, Eredivisie, Liga Nos, and MLS) for the 2022/23 season, covering player contracts, market values, and performance statistics.
 
 
+## [Data Mining](https://github.com/andrelp99/projects_portfolio/tree/main/Data%20Mining)
+
+Project for the **Data Mining** course, academic year 2020/21, Bachelor’s Degree in Statistics and Information Management (SGI), University of Milano – Bicocca.
+
+The goal of this study was to build a classifier capable of predicting user ratings based on the characteristics of a mobile application.
+
+
 ## [Data Science Lab](https://github.com/andrelp99/projects_portfolio/tree/main/Data%20Science%20Lab)
 
 Project for the **Data Science Lab** course, academic year 2022/23, Master’s Degree in Data Science, University of Milano – Bicocca.
@@ -76,13 +83,7 @@ Tableau Public was used to create the infographics for the project.
 The dataset was built by integrating multiple datasets from fbref.com, particularly focusing on general and possession-related statistics from the top 5 European football leagues (Serie A, Premier League, Ligue 1, Bundesliga, and La Liga) for the 2017/18–2021/22 seasons.
 
 
-## [Data Mining](https://github.com/andrelp99/projects_portfolio/tree/main/Data%20Mining)
-
-Project for the **Data Mining** course, academic year 2020/21, Bachelor’s Degree in Statistics and Information Management (SGI), University of Milano – Bicocca.
-
-The goal of this study was to build a classifier capable of predicting user ratings based on the characteristics of a mobile application.
-
-## Foundations of Computer Science
+## [Foundations of Computer Science](https://github.com/andrelp99/projects_portfolio/tree/main/Foundations%20of%20Computer%20Science)
 
 Project for the **Foundations of Computer Science** course, academic year 2021/22.
 
@@ -102,13 +103,6 @@ To read the files, use encoding='latin-1'.
 All questions must be asked publicly on Zulip; otherwise, no answers will be provided.
 
 
-## [R Laboratory for Biostatistics](https://github.com/andrelp99/projects_portfolio/tree/main/R%20Laboratory%20for%20Biostatistics)
-
-Project for the **R Laboratory for Biostatistics** course, academic year 2021/22, Master’s Degree in Data Science, University of Milano – Bicocca.
-
-Cleaning of the initial clinical dataset, application of machine learning techniques, and descriptive analysis of relevant variables.
-
-
 ## [Machine Learning](https://github.com/andrelp99/projects_portfolio/tree/main/Machine%20Learning)
 
 Project for the **Machine Learning** course, academic year 2021/22, Master’s Degree in Data Science, University of Milano – Bicocca.
@@ -116,13 +110,21 @@ Project for the **Machine Learning** course, academic year 2021/22, Master’s D
 Development of a KNIME workflow for a machine learning project based on a chosen dataset.
 
 
-## [Statistical Models](https://github.com/andrelp99/projects_portfolio/tree/main/Statistical%20Models)
+## Medical Imaging
 
-Project completed using RMarkdown during the **Statistical Models** exam, academic year 2019/20, Bachelor’s Degree in Statistics and Information Management (SGI), University of Milano – Bicocca.
+Project for the **Medical Imaging** course, academic year 2022/23, in the Master’s Degree in Data Science program at the University of Milano-Bicocca.
 
-Assignment summary:
-Analysis of restaurant meal costs as a function of food quality, elegance, service, and location.
-Tasks included descriptive statistics, scatter plots, multicollinearity checks, multiple regression modeling, interpretation of parameters, residual analysis, confidence intervals, and application of the Akaike Information Criterion for variable selection.
+The project is based on a dataset called BRATS, used for the segmentation of MRI (Magnetic Resonance Imaging) scans of patients with brain tumors.
+Magnetic resonance imaging is a technique used to acquire three-dimensional images of internal parts of the human body and is widely employed in various fields (such as neurology, oncology, neurosurgery, urology, traumatology, orthopedics, gastroenterology, and cardiology) because it allows the visualization of muscles, bones, spinal cord, heart, internal organs, and blood vessels.
+
+The goal of the project is to improve the detection of brain tumor phenomena through the use of convolutional neural networks (CNNs), which are particularly suited for this task because they enable the creation of increasingly reliable and precise models that can help identify the possible presence or absence of tumor tissue within an organ.
+
+
+## [R Laboratory for Biostatistics](https://github.com/andrelp99/projects_portfolio/tree/main/R%20Laboratory%20for%20Biostatistics)
+
+Project for the **R Laboratory for Biostatistics** course, academic year 2021/22, Master’s Degree in Data Science, University of Milano – Bicocca.
+
+Cleaning of the initial clinical dataset, application of machine learning techniques, and descriptive analysis of relevant variables.
 
 
 ## [Social Media Analytics](https://github.com/andrelp99/projects_portfolio/tree/main/Social%20Media%20Analytics)
@@ -132,6 +134,15 @@ Project for the **Social Media Analytics** course, academic year 2022/23, Master
 The project involved implementing sentiment analysis, topic modeling, and community detection to uncover the main themes, key members, and sentiment of posts from the subreddit r/ACMilan.
 
 Steps included text preprocessing (normalization, stopword removal, tokenization, lemmatization), exploratory data analysis, topic modeling (with wordcloud creation), sentiment analysis (using three approaches: AFINN Lexicon, Opinion Lexicon, and Dictionary-Based Emotion Detection), and community detection through graph-based network metrics.
+
+
+## [Statistical Models](https://github.com/andrelp99/projects_portfolio/tree/main/Statistical%20Models)
+
+Project completed using RMarkdown during the **Statistical Models** exam, academic year 2019/20, Bachelor’s Degree in Statistics and Information Management (SGI), University of Milano – Bicocca.
+
+Assignment summary:
+Analysis of restaurant meal costs as a function of food quality, elegance, service, and location.
+Tasks included descriptive statistics, scatter plots, multicollinearity checks, multiple regression modeling, interpretation of parameters, residual analysis, confidence intervals, and application of the Akaike Information Criterion for variable selection.
 
 
 ## [Streaming Data Management and Time Series Analysis](https://github.com/andrelp99/projects_portfolio/tree/main/Streaming%20Data%20Management%20and%20Time%20Series%20Analysis)
