@@ -5,7 +5,7 @@ You can find my Linkedin profile here (https://www.linkedin.com/in/andrealucinip
 
 These are some of the projects developed through my college experiences, along with the Bachelor and the Master Degree thesis written:
 
-## Bachelor’s Thesis
+## [Bachelor’s Thesis](https://github.com/andrelp99/projects_portfolio/tree/main/Bachelor%E2%80%99s%20Thesis)
 
 Bachelor degree thesis **"Automated analysis and visualization techniques of data generated with flow cytometry platforms"**.
 
