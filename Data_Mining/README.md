@@ -1,7 +1,5 @@
-# Data_Mining
+## Data Mining
 
-Progetto del corso di Data Mining, anno accademico 2020/21, nel corso di Laurea triennale in Statistica e Gestione delle Informazioni (SGI), presso l'Università degli Studi di Milano - Bicocca.
+Project for the **Data Mining** course, academic year 2020/21, Bachelor’s Degree in Statistics and Information Management (SGI), University of Milano – Bicocca.
 
-
-Lo scopo dello studio consiste nella messa a punto di un classificatore che sia capace di predire la valutazione degli utenti sulla base delle caratteristiche 
-di un’applicazione.
+The goal of this study was to build a classifier capable of predicting user ratings based on the characteristics of a mobile application.
