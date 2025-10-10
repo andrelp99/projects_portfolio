@@ -1,9 +1,9 @@
-# Big Data in Health Care
+## Big Data in Health Care
 
-Progetto del corso di Big Data in Health Care, anno accademico 2022/23, nel corso di Laurea Magistrale in Data Science, presso l'Università degli Studi di Milano - Bicocca.
+Project for the **Big Data in Health Care** course, academic year 2022/23, Master’s Degree in Data Science, University of Milano – Bicocca.
 
-Il progetto si propone di analizzare l’incidenza di seconda recidiva nei soggetti con resezione chirurgica del Carcinoma epatocellulare (HCC) che hanno già avuto una prima recidiva.
+The project aims to analyze the incidence of second recurrence in patients with surgical resection of hepatocellular carcinoma (HCC) who have already experienced a first recurrence.
 
-L’HCC è un tumore maligno del fegato e la resezione chirurgica è spesso utilizzata come opzione di trattamento. Tuttavia, anche dopo la rimozione del tumore, la recidiva è comune. Questo studio si concentrerà su pazienti che hanno già avuto una recidiva.
+HCC is a malignant liver tumor, and surgical resection is often used as a treatment option. However, even after tumor removal, recurrence is common. This study focuses on patients who have already experienced one recurrence.
 
-L’analisi dei dati sarà effettuata utilizzando metodi non parametrici e analisi univariate, come il modello Cox. L’obiettivo finale del progetto è quello di sviluppare un modello predittivo che possa aiutare a identificare i pazienti a rischio di seconda recidiva per poter adottare misure preventive appropriate.
+Data analysis was carried out using non-parametric and univariate methods, such as the Cox model. The ultimate goal of the project is to develop a predictive model that can help identify patients at risk of a second recurrence, allowing appropriate preventive measures to be taken.
