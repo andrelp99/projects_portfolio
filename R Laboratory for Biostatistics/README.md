@@ -1,5 +1,5 @@
-# Laboratorio-R-per-la-Biostatistica
+## R Laboratory for Biostatistics
 
-Progetto del corso di Laboratorio R per la Biostatistica, anno accademico 2021/22, nel corso di Laurea Magistrale in Data Science, presso l'Università degli Studi di Milano - Bicocca.
+Project for the **R Laboratory for Biostatistics** course, academic year 2021/22, Master’s Degree in Data Science, University of Milano – Bicocca.
 
-Cleaning del dataset iniziale, applicazione di tecniche di Machine Learning e analisi descrittiva delle variabili d'interesse.
+Cleaning of the initial clinical dataset, application of machine learning techniques, and descriptive analysis of relevant variables.
