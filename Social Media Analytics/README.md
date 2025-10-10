@@ -1,7 +1,7 @@
-# Social Media Analytics
+## Social Media Analytics
 
-Progetto del corso di Social Media Analytics, anno accademico 2022/23, nel corso di Laurea Magistrale in Data Science, presso l'Università degli Studi di Milano - Bicocca. 
+Project for the **Social Media Analytics** course, academic year 2022/23, Master’s Degree in Data Science, University of Milano – Bicocca.
 
-Il progetto è mirato all’implementazione di una serie di sentiment analysis, di topic modeling e di community detection, per svelare i temi principali contenuti all'interno dei post del subreddit r/ACMilan, i membri principali e il sentiment dei posts.
+The project involved implementing sentiment analysis, topic modeling, and community detection to uncover the main themes, key members, and sentiment of posts from the subreddit r/ACMilan.
 
-Le fasi iniziali riguardavano la step di pre-elaborazione del testo (normalizzazione, stopwords removal, tokenizzazione, lemmatizzazione), analisi di alcuni aspetti dei dati ottenuti, una fase di topic modeling (con creazione della wordcloud), una fase di sentiment analysis (con tre approcci, AFINN Lexicon Base Approach, The Opinion Lexicon e Dictionary Based emotion detection) ed una fase di community detection, con la creazione del grafo relativo ai membri del subreddit e il calcolo di una serie di metriche.
+Steps included text preprocessing (normalization, stopword removal, tokenization, lemmatization), exploratory data analysis, topic modeling (with wordcloud creation), sentiment analysis (using three approaches: AFINN Lexicon, Opinion Lexicon, and Dictionary-Based Emotion Detection), and community detection through graph-based network metrics.
