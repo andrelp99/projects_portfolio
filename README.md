@@ -119,6 +119,12 @@ Magnetic resonance imaging is a technique used to acquire three-dimensional imag
 
 The goal of the project is to improve the detection of brain tumor phenomena through the use of convolutional neural networks (CNNs), which are particularly suited for this task because they enable the creation of increasingly reliable and precise models that can help identify the possible presence or absence of tumor tissue within an organ.
 
+## [My Spotify Data](https://github.com/andrelp99/projects_portfolio/tree/main/My%20Spotify%20Wrapped)
+
+Personal project, aiming to clean, process and visualize the results of my listening sessions of Spotify Music in 2024. 
+
+The projecct is based on the dataset sent by Spotify that collects all the information about the music listened during 2024. Starting from a cleaning phase made in Python, after getting a clean version of my data I created a visualization on Tableau Public to show the results obtained. The data viz is available here: https://public.tableau.com/app/profile/andrea.lucini.paioni7588/viz/MySpotifyWrapped_17615147665250/Dashboard1?publish=yes
+
 
 ## [R Laboratory for Biostatistics](https://github.com/andrelp99/projects_portfolio/tree/main/R%20Laboratory%20for%20Biostatistics)
 
